@@ -11,6 +11,6 @@ If this is a dead-end, hey why not just reach out and DM me , hey this is totall
 
 ## Some random questions for further research 🔬
 * How are NFTs validated?
-* Do NFTs require miners to be validated?
+* Do NFTs require miners to be validated? (Turns out nope)
 
 
